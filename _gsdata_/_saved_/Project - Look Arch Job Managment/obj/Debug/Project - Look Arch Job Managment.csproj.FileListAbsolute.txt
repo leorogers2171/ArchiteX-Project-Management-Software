@@ -1,0 +1,151 @@
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe.config
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojResolveAssemblyReference.cache
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.Cache
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.CoreCompileInputs.cache
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.dll
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojAssemblyReference.cache
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.cache
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.CoreCompileInputs.cache
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.CopyComplete
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+D:\Brock Onedrive Sync\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmProject.resources
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmCreateProject.resources
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateProject.resources
+C:\Users\Leo\OneDrive - Brockenhurst College\01. Visual Studio\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportProjects.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojResolveAssemblyReference.cache
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmCreateProject.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportProjects.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateProject.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmProject.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.Cache
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.MasterForm.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\aa\Project - Look Arch Job Managment.resources.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\en\Project - Look Arch Job Managment.resources.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.aa.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.dje-NE.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.en.resources
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\aa\Project - Look Arch Job Managment.resources.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+Z:\LSROGERS\Visual Studio 2017\Projects\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\en\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\aa\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\en\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojResolveAssemblyReference.cache
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmCreateProject.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportProjects.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateProject.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmProject.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.aa.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.dje-NE.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.en.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.Cache
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.CoreCompileInputs.cache
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\aa\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\en\Project - Look Arch Job Managment.resources.dll
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.MasterForm.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\aa\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\en\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojResolveAssemblyReference.cache
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmCreateProject.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportProjects.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateProject.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmProject.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.MasterForm.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.aa.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.dje-NE.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.en.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.Cache
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\aa\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\en\Project - Look Arch Job Managment.resources.dll
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimeSheet.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimeSheet.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmStaffMembers.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExpenses.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExpenses.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmStaffMembers.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.en.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmSupport.resources
+D:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimers.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.exe
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Project - Look Arch Job Managment.pdb
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\aa\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\en\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\Google.Protobuf.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\bin\Debug\MySql.Data.xml
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csprojResolveAssemblyReference.cache
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmCreateProject.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExpenses.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportProjects.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmStaffMembers.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmSupport.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimers.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimeSheet.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateProject.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmProject.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.MasterForm.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.Properties.Resources.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.aa.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.dje-NE.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmDashboard.en.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.en.resources
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.csproj.GenerateResource.Cache
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\aa\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\dje-NE\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\en\Project - Look Arch Job Managment.resources.dll
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.exe
+E:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project - Look Arch Job Managment.pdb
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmSupport.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmTimers.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmReports.en.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmAddTimesheet.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmUpdateTimeshet.resources
+G:\Project - Look Arch Job Managment\Project - Look Arch Job Managment\obj\Debug\Project___Look_Arch_Job_Managment.frmExportTimesheet.resources
